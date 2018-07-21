@@ -61,11 +61,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_DestroyOnContact.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Explode.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_GameController.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_HatController.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Restart.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_Score.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_SetParticleSortingLayer.cs" />
+    <Compile Include="Assets\Hat Trick - The Catch Game\Scripts\HT_StartGame.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\Destroyer.cs" />
+    <Compile Include="Assets\Scripts\Explode.cs" />
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\Restart.cs" />
     <Compile Include="Assets\Scripts\Score.cs" />
+    <Compile Include="Assets\Scripts\SelfDestruct.cs" />
+    <None Include="Assets\Hat Trick - The Catch Game\_ReadMe.txt" />
     <None Include="Assets\FontFaces\LuckiestGuy\LICENSE.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Unity Workspaces/Hello World/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
